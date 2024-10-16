@@ -19,10 +19,12 @@
     <type fullname="HotFix.Runtime.UI.PandaCard" preserve="all" />
     <type fullname="HotFix.Runtime.UI.PandaFeed" preserve="all" />
     <type fullname="HotFix.Runtime.UI.PandaParentCard" preserve="all" />
+    <type fullname="HotFix.Runtime.UI.PandaPictureInfo" preserve="all" />
     <type fullname="HotFix.Runtime.UI.PandaRoomPanel" preserve="all" />
     <type fullname="HotFix.Runtime.UI.PandaSelectCard" preserve="all" />
     <type fullname="HotFix.Runtime.UI.PandaSell" preserve="all" />
     <type fullname="HotFix.Runtime.UI.PandaTipPanel" preserve="all" />
+    <type fullname="HotFix.Runtime.UI.PlayerLevelPanel" preserve="all" />
     <type fullname="HotFix.Runtime.UI.PlayerPanel" preserve="all" />
     <type fullname="HotFix.Runtime.UI.StartUIPanel" preserve="all" />
     <type fullname="HotFix.Runtime.UI.TaskBtn" preserve="all" />
